@@ -67,7 +67,7 @@
 	ls -la ~/.ssh								> Nos muestra las claves SSH que se han creado anteriormente
 
 ###### Salida CLI
-<img src="../imagenes/3.-com_SSH.png" width="400" height="100">
+<img src="../imagenes/3.-Com_SSH.png" width="400" height="100">
 
 ## b. Generando key pair:
 #### Comando:
