@@ -30,6 +30,7 @@
 #### - _Dejar que Git realice un seguimiento de tus cambios y los de otras personas, por lo que todos siguen trabajando en la versión más actualizada del proyecto._
 
 ### [GitHub Docs](https://docs.github.com/en/get-started)
+### [GitHub Config](./config/GitHub_Git_ini.md)
 
 ## Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en follow.
 # ¡Muchas gracias, bienvenido!!!
