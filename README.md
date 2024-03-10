@@ -32,7 +32,7 @@
 ### [GitHub Docs](https://docs.github.com/en/get-started)
 ### [GitHub Config](./config/GitHub_Git_ini.md)
 
-## Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en follow.
+## Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en botón de Follow.
 # ¡Muchas gracias, bienvenido!!!
 
 ## Contacto y apoyo:

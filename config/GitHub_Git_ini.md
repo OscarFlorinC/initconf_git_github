@@ -132,7 +132,7 @@
 <img src="../imagenes/7c.-Conf_Github.png" width="500" height="400">
 
 
-## 6. Comparar la configuracion:
+## 6. Comparar la configuración:
     - ssh -T git@github.com
     - Repetir la instrucción  ssh -T git@github.com
         - Saldrá un mensaje de que sea autenticado correctamente, pero tienes acceso por shell. ("Es normal este mensaje")

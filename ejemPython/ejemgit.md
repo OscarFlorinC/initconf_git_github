@@ -2,7 +2,7 @@
 ##### ***Nota: Se da por hecho que ya se tiene un proyecto con el SCDV iniciado***
 ##### ***-No hacer caso al nombre de la rama (branch)***
 
-## Al crear un archivo en esta caso uno con extension .py, el pront cambia.
+## Al crear un archivo en esta caso uno con extension .py, el prompt cambia.
 <img src="../imagenes/10.-ejem.png" width="500" height="70">
 
 ## ***Git Status:*** muestra el estado del directorio de trabajo y del área del entorno de ensayo. Permite ver los cambios que se han preparado, los que no y los archivos en los que Git no va a realizar el seguimiento
