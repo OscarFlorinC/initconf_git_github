@@ -25,6 +25,8 @@
 ###### Salida CLI
 <img src="../imagenes/2.-Cambio_nombre(branch).png" width="400" height="50">
 
+### [Ejemplo](../ejemPython/ejemgit.md)
+
 ## 4. Creación de etiquetas para las app's:
 ### Se sugiere crear etiquetas con cada version de la app, solo se aplica cuando ya se realizó un commit (archivo, aplicación, etc.).
 

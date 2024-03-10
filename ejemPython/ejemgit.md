@@ -29,37 +29,5 @@ $ git merge feature
 
 <img src="../imagenes/14.-ejem.png" width="500" height="140">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="../imagenes/1.-Developer.png" width="500" height="300">
+### ***Ejemplo en python***
+<img src="../imagenes/15.-code.png" width="400" height="400">
