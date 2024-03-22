@@ -25,7 +25,12 @@
 ###### Salida CLI
 <img src="../imagenes/2.-Cambio_nombre(branch).png" width="400" height="50">
 
-### [Ejemplo](../ejemPython/ejemgit.md)
+
+|  | Descripción |
+|-----:|---------------|
+| [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](../ejemPython/ejemgit.md) | ***Ejemplo*** |
+
+
 
 ## 4. Creación de etiquetas para las app's:
 ### Se sugiere crear etiquetas con cada version de la app, solo se aplica cuando ya se realizó un commit (archivo, aplicación, etc.).
@@ -140,3 +145,14 @@
 
 ###### Imagen
 <img src="../imagenes/8.-Conf_Github.png" width="550" height="60">
+
+#
+# Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de Follow.
+# ¡Muchas gracias, bienvenido!!!
+
+# Contacto y apoyo:
+
+<br>[![LinkedIn](https://img.shields.io/badge/Oscar_Florin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/oscarflorincontreras)
+[![X](https://img.shields.io/badge/DevozzCloud-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/DevozzCloud)</br>
+[![Just_Eat](https://img.shields.io/badge/🌮_Donaciones_para_tacos-7A1FA2?style=for-the-badge&logo=)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
+[![Eats](https://img.shields.io/badge/🐈_Donaciones_para_gatos-black?style=for-the-badge&logo=)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)

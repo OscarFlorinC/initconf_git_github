@@ -29,14 +29,21 @@
 #### - _Dejar que Git fusione mediante combinación y de forma inteligente los cambios específicos en la copia principal de archivos, de modo que los cambios no afecten a las actualizaciones de otras personas._
 #### - _Dejar que Git realice un seguimiento de tus cambios y los de otras personas, por lo que todos siguen trabajando en la versión más actualizada del proyecto._
 
-### [GitHub Docs](https://docs.github.com/en/get-started)
-### [GitHub Config](./config/GitHub_Git_ini.md)
 
-## Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en botón de Follow.
+| Curso | Descripción |
+|-----:|---------------|
+| [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en/get-started) | ***Documentación oficial*** |
+| [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](./config/GitHub_Git_ini.md) | ***Configuración inicial de Git & GitHub*** |
+
+
+
+
+# Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de Follow.
 # ¡Muchas gracias, bienvenido!!!
 
-## Contacto y apoyo:
+# Contacto y apoyo:
 
-[![LinkedIn](https://img.shields.io/badge/Oscar_Florin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/oscarflorincontreras)
-<br>[![Just Eat](https://img.shields.io/badge/Donaciones_para_tacos_🌮🌮🌮-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
-<br>[![Eats](https://img.shields.io/badge/Donaciones_alimento_para_gatos🐈🐈-black?style=for-the-badge&logo=uber-eats&logoColor=green)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)</br>
+<br>[![LinkedIn](https://img.shields.io/badge/Oscar_Florin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/oscarflorincontreras)
+[![X](https://img.shields.io/badge/DevozzCloud-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/DevozzCloud)</br>
+[![Just_Eat](https://img.shields.io/badge/🌮_Donaciones_para_tacos-7A1FA2?style=for-the-badge&logo=)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
+[![Eats](https://img.shields.io/badge/🐈_Donaciones_para_gatos-black?style=for-the-badge&logo=)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
