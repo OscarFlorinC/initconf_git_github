@@ -105,7 +105,7 @@
 <img src="../imagenes/6.-Conf_file.png" width="500" height="150">
 
 
-## 4. Añadir la clave al sistema de gestion:
+## 4. Añadir la clave al sistema de gestión:
 #### Comando:
 	ssh-add --apple-use-keychain ~/.ssh/"id_ed25519"			> Cambiar el "id_ed25519" por el asignado en el paso 1
 
